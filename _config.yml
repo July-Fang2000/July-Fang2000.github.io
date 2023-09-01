@@ -96,6 +96,16 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at UCR I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
+    content:
+      - layout: left
+        title: China University of Mining and Technology, Beijing
+        caption: 2018 - 2022
+        sub_title: BS in Information an Compute Science
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at UCR I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
   # - title: A Little More About Me
   #   layout: text
   #   content: | # this will include new lines to allow paragraphs
@@ -110,7 +120,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: Resume designed using the Modern Resume Theme from GitHub.
+references_title: Resume designed using the Modern Resume Theme from GitHub.
 
 # Build settings
 remote_theme: sproogen/resume-theme
