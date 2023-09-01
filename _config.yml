@@ -50,9 +50,6 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Graduate Computer Science Student at the University of California, Riverside.
 
-Feel free to ask me anything. I'll do my best to assist!
-
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
