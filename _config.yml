@@ -48,7 +48,7 @@ linkedin_username: julyfang
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Graduate Computer Science Student at the University of California, Riverside.
+  I am a Graduate Computer Science Student at the University of California, Riverside. Passionate about Software Development, Mobile Development, and more. Currently exploring Data Science, Full Stack Web Development, and App Development. Open to collaborating on Machine Learning and Web Development Projects. Feel free to ask me anything. I'll do my best to assist!
 
 content:
   - title: Projects # Title for the section
