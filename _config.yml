@@ -97,7 +97,7 @@ content:
           During my time at UCR I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
   - title: Education 2 # Title for the section
     content:
-      - layout: right
+      - layout: left
         title: China University of Mining and Technology, Beijing
         caption: 2018 - 2022
         sub_title: BS in Information an Compute Science
